@@ -1,7 +1,7 @@
 # lab2part1
 
 * Adam Gibbons
-* picture?
+* Photo of Adam ![Adam](AdamG.png)
 * 2019
 * no idea
 
